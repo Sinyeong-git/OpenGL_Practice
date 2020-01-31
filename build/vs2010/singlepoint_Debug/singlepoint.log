@@ -1,0 +1,6 @@
+﻿  singlepoint.cpp
+C:\Users\shin\Desktop\김신형_전체프로젝트\김신형_0201\Opengl\sb6code-master\include\sb6.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\shin\Desktop\김신형_전체프로젝트\김신형_0201\Opengl\sb6code-master\include\sb6ext.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+LINK : warning LNK4217: '_fprintf'에 정의된 'singlepoint.obj' 기호를 함수 'GLFW_d32.lib(win32_window.obj)'에서 '__glfwPlatformOpenWindow'이(가) 가져왔습니다.
+GLFW_d32.lib(win32_window.obj) : error LNK2019: __imp____iob_func 외부 기호(참조 위치: __glfwPlatformOpenWindow 함수)에서 확인하지 못했습니다.
+C:\Users\shin\Desktop\김신형_전체프로젝트\김신형_0201\Opengl\sb6code-master\bin\singlepoint_dbg.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
